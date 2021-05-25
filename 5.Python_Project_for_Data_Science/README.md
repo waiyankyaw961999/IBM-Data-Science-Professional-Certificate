@@ -1,1 +1,17 @@
-# IBM Data Science Professional Certificate<br><p align="center"> <img src="https://github.com/waiyankyaw961999/IBM_Data_Science_Professional_Certificate/blob/main/ibm.svg" title="IBM logo" alt = "IBM logo" /></p>**Instructors: Joseph Santarcangelo , Azim Hirjani**Course Link: [Python project for data science](https://www.coursera.org/learn/python-project-for-data-science)## Program Overview- Scraping with Python using BeautifulSoup- Analysing Stock reveneue from Tesla and Gamestop using yfinance python library
+# IBM Data Science Professional Certificate
+
+<br>
+
+<p align="center">
+ <img src="https://github.com/waiyankyaw961999/IBM-Data-Science-Professional-Certificate/blob/main/ibm.svg" title="IBM logo" alt = "IBM logo" />
+</p>
+
+**Instructors: Joseph Santarcangelo , Azim Hirjani**
+
+Course Link: [Python project for data science](https://www.coursera.org/learn/python-project-for-data-science)
+
+## Program Overview
+
+- Scraping with Python using BeautifulSoup
+- Analysing Stock reveneue from Tesla and Gamestop using yfinance python library
+
