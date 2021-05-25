@@ -13,5 +13,5 @@ Course Link: [Python project for data science](https://www.coursera.org/learn/py
 ## Program Overview
 
 - Scraping with Python using BeautifulSoup
-- Analysing Stock reveneue from Tesla and Gamestop using yfinance python library
+- Analysing Stock revenue from Tesla and Gamestop using yfinance python library
 
