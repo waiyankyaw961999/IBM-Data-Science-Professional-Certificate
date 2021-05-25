@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-	<img src="https://github.com/waiyankyaw961999/IBM_Data_Science_Professional_Certificate/blob/main/ibm.svg" title="IBM" alt="IBM" />
+	<img src="https://github.com/waiyankyaw961999/IBM-Data-Science-Professional-Certificate/blob/main/3.Data_Science_Methodology/CrispDM.png" title="IBM" alt="IBM" />
 </p>
 
 <br>
